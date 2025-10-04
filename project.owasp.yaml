@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Fernando Guisso
+    email: fernando.guisso@owasp.org
+    github: fguisso
+  - name: Geovana Silva
+    email: fernando.guisso@owasp.org
+level: 2
+name: OWASP Dojo Shield
+pitch: Dojo Shield is an open-source, hands-on workshop framework designed to teach secure coding practices through collaborative, real-world challenge
+  solving.
+repositories:
+  - name: www-project-dojo-shield
+    url: https://github.com/OWASP/www-project-dojo-shield
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-dojo-shield
